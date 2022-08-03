@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jminuzzi
-- 👀 I’m interested in ...Em aprender  programação já estudei todas as logicas.
--  Com o curdo da udemy
+- 👀 I’m interested in ...In learning programming I have already studied all the logics.
+- With the udemy course
 - 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... someone to teach
 - 📫 How to reach me ...
 
 <!---

@@ -1,30 +1,37 @@
-# Olá, eu sou Jefferson 👋
+Olá, eu sou Jefferson Minuzzi 👋
 
-Desenvolvedor focado em:
+Desenvolvedor em evolução focado em construir soluções reais com tecnologia.
+
+Áreas de atuação
 
 🐍 Python Development
 🔐 Cybersecurity
 🤖 Automation & AI
 🌐 Web Development
 
-## Projetos em destaque
+Projetos em destaque
+Curriculum AI
 
-* Curriculum AI → Automação + IA para currículos
-* CS2 Aim Trainer → Treino e análise de mira
-* Space Invader Game → Desenvolvimento de jogos
-* Portfolio Website → Meu portfólio pessoal
+Sistema inteligente para análise e otimização de currículos com IA.
 
-## Tecnologias
+Portfolio Website
+
+Meu portfólio profissional com projetos e habilidades.
+
+CS2 Aim Trainer
+
+Ferramenta de treino e análise para jogos competitivos.
+
+Space Invader Game
+
+Projeto de desenvolvimento de jogos com foco em lógica e arquitetura.
+
+Tecnologias
 
 Python • JavaScript • React • Git • SQL • Linux
 
-## Atualmente estudando
-
-* Cybersecurity
-* Backend com Python
-* Automação de processos
-
-<!---
-jminuzzi/jminuzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estudando
+Cybersecurity
+Backend com Python
+Automação de processos
+Estruturas de dados

@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @jminuzzi
-- 👀 I’m interested in ...In learning programming I have already studied all the logics.
-- With the udemy course
-- 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... someone to teach
-- 📫 How to reach me ...
+# Olá, eu sou Jefferson 👋
+
+Desenvolvedor focado em:
+
+🐍 Python Development
+🔐 Cybersecurity
+🤖 Automation & AI
+🌐 Web Development
+
+## Projetos em destaque
+
+* Curriculum AI → Automação + IA para currículos
+* CS2 Aim Trainer → Treino e análise de mira
+* Space Invader Game → Desenvolvimento de jogos
+* Portfolio Website → Meu portfólio pessoal
+
+## Tecnologias
+
+Python • JavaScript • React • Git • SQL • Linux
+
+## Atualmente estudando
+
+* Cybersecurity
+* Backend com Python
+* Automação de processos
 
 <!---
 jminuzzi/jminuzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
